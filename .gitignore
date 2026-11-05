@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.claude/
+# personal voice recordings and generated audio stay local
+voice_profiles/
+dataset/
+outputs/
